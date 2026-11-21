@@ -1,0 +1,37 @@
+test_busqueda_inexistente_con_causa (test_sistema.PruebasSoftwareFJ.test_busqueda_inexistente_con_causa) ... ok
+test_cancelar_procesada_prohibido (test_sistema.PruebasSoftwareFJ.test_cancelar_procesada_prohibido) ... ok
+test_cancelar_y_no_procesar (test_sistema.PruebasSoftwareFJ.test_cancelar_y_no_procesar) ... ok
+test_capacidad_invalida (test_sistema.PruebasSoftwareFJ.test_capacidad_invalida) ... ok
+test_cliente_duplicado (test_sistema.PruebasSoftwareFJ.test_cliente_duplicado) ... ok
+test_cliente_valido (test_sistema.PruebasSoftwareFJ.test_cliente_valido) ... ok
+test_confirmar_dos_veces (test_sistema.PruebasSoftwareFJ.test_confirmar_dos_veces) ... ok
+test_correo_duplicado_case_insensitive (test_sistema.PruebasSoftwareFJ.test_correo_duplicado_case_insensitive) ... ok
+test_correo_invalido (test_sistema.PruebasSoftwareFJ.test_correo_invalido) ... ok
+test_descuento_invalido_no_cambia_estado (test_sistema.PruebasSoftwareFJ.test_descuento_invalido_no_cambia_estado) ... ok
+test_disponibilidad_invalida (test_sistema.PruebasSoftwareFJ.test_disponibilidad_invalida) ... ok
+test_duracion_cero (test_sistema.PruebasSoftwareFJ.test_duracion_cero) ... ok
+test_duracion_excede_limite_sala (test_sistema.PruebasSoftwareFJ.test_duracion_excede_limite_sala) ... ok
+test_entidad_abstracta_no_instanciable (test_sistema.PruebasSoftwareFJ.test_entidad_abstracta_no_instanciable) ... ok
+test_estado_invalido_no_confirmar (test_sistema.PruebasSoftwareFJ.test_estado_invalido_no_confirmar) ... ok
+test_estado_solo_lectura (test_sistema.PruebasSoftwareFJ.test_estado_solo_lectura) ... ok
+test_id_booleano_invalido (test_sistema.PruebasSoftwareFJ.test_id_booleano_invalido) ... ok
+test_impuesto_descuento (test_sistema.PruebasSoftwareFJ.test_impuesto_descuento) ... ok
+test_lista_no_modificable (test_sistema.PruebasSoftwareFJ.test_lista_no_modificable) ... ok
+test_logging_errores (test_sistema.PruebasSoftwareFJ.test_logging_errores) ... ok
+test_manejo_parametros_faltantes (test_sistema.PruebasSoftwareFJ.test_manejo_parametros_faltantes) ... ok
+test_no_disponible (test_sistema.PruebasSoftwareFJ.test_no_disponible) ... ok
+test_nombre_corto (test_sistema.PruebasSoftwareFJ.test_nombre_corto) ... ok
+test_precio_infinito (test_sistema.PruebasSoftwareFJ.test_precio_infinito) ... ok
+test_precio_nan (test_sistema.PruebasSoftwareFJ.test_precio_nan) ... ok
+test_precio_negativo (test_sistema.PruebasSoftwareFJ.test_precio_negativo) ... ok
+test_procesar_sin_confirmar (test_sistema.PruebasSoftwareFJ.test_procesar_sin_confirmar) ... ok
+test_reserva_valida (test_sistema.PruebasSoftwareFJ.test_reserva_valida) ... ok
+test_servicio_abstracto_no_instanciable (test_sistema.PruebasSoftwareFJ.test_servicio_abstracto_no_instanciable) ... ok
+test_servicio_duplicado (test_sistema.PruebasSoftwareFJ.test_servicio_duplicado) ... ok
+test_servicios_especializados_y_polimorfismo (test_sistema.PruebasSoftwareFJ.test_servicios_especializados_y_polimorfismo) ... ok
+test_telefono_invalido (test_sistema.PruebasSoftwareFJ.test_telefono_invalido) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.005s
+
+OK

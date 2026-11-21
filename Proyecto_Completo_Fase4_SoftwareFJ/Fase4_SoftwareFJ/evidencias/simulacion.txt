@@ -1,0 +1,84 @@
+01. Registrar cliente válido
+    OK -> Cliente #101: Ana Valdez
+
+02. Rechazar correo inválido
+    OK (error controlado): El correo no tiene un formato válido.
+
+03. Registrar segundo cliente
+    OK -> Cliente #102: Sergio Ríos
+
+04. Rechazar cliente duplicado
+    OK (error controlado): Ya existe cliente con ID 101.
+
+05. Crear servicio de sala
+    OK -> Sala #201: Sala de reuniones, capacidad 12, Sede principal
+
+06. Rechazar tarifa negativa
+    OK (error controlado): La tarifa debe ser mayor que cero y finito.
+
+07. Crear alquiler de equipo
+    OK -> Equipo #202: Portátil empresarial, tipo Computador
+
+08. Crear asesoría
+    OK -> Asesoría #203: Asesoría de redes, área Redes
+
+09. Crear servicio no disponible
+    OK -> Equipo #204: Proyector, tipo Proyector
+
+10. Crear reserva válida
+    OK -> Reserva #301: Ana Valdez / Sala de reuniones (2 h), estado=pendiente
+
+11. Confirmar reserva
+    OK -> Reserva #301: Ana Valdez / Sala de reuniones (2 h), estado=confirmada
+
+12. Procesar con impuesto y descuento
+    OK -> 117810.00
+
+13. Rechazar servicio no disponible
+    OK (error controlado): El servicio elegido no está disponible.
+
+14. Rechazar duración cero
+    OK (error controlado): La duración debe ser un entero positivo.
+
+15. Crear otra reserva
+    OK -> Reserva #304: Sergio Ríos / Portátil empresarial (3 h), estado=pendiente
+
+16. Cancelar una reserva
+    OK -> Reserva #304: Sergio Ríos / Portátil empresarial (3 h), estado=cancelada
+
+17. Impedir procesar reserva cancelada
+    OK (error controlado): Solo se puede procesar una reserva confirmada.
+
+18. Reservar asesoría
+    OK -> Reserva #305: Ana Valdez / Asesoría de redes (1 h), estado=pendiente
+
+19. Confirmar asesoría
+    OK -> Reserva #305: Ana Valdez / Asesoría de redes (1 h), estado=confirmada
+
+20. Procesar asesoría
+    OK -> 80000.00
+
+21. Rechazar teléfono con letras
+    OK (error controlado): El teléfono debe contener solo dígitos.
+
+22. Rechazar sala sin capacidad
+    OK (error controlado): La capacidad debe ser un entero positivo.
+
+23. Rechazar cliente inexistente
+    OK (error controlado): No existe cliente con ID 999.
+
+24. Crear reserva para revisar descuentos
+    OK -> Reserva #307: Sergio Ríos / Portátil empresarial (2 h), estado=pendiente
+
+25. Confirmar nueva reserva
+    OK -> Reserva #307: Sergio Ríos / Portátil empresarial (2 h), estado=confirmada
+
+26. Rechazar descuento mayor al 100%
+    OK (error controlado): El descuento debe estar entre 0 y 100.
+
+27. Recuperarse y procesar correctamente
+    OK -> 45000.00
+
+RESULTADO: 27/27 operaciones cumplieron el resultado esperado.
+REGISTROS: 2 clientes, 4 servicios, 4 reservas.
+LOG: logs/eventos.log

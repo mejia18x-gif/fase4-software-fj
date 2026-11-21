@@ -1,0 +1,151 @@
+2026-11-20 20:51:12,392 | INFO | Operación correcta: registrar_cliente
+2026-11-20 20:51:12,392 | ERROR | registrar_cliente: El correo no tiene un formato válido.
+2026-11-20 20:51:12,392 | INFO | Operación correcta: registrar_cliente
+2026-11-20 20:51:12,392 | ERROR | registrar_cliente: Ya existe cliente con ID 101.
+2026-11-20 20:51:12,392 | INFO | Operación correcta: registrar_sala
+2026-11-20 20:51:12,392 | ERROR | registrar_sala: La tarifa debe ser mayor que cero y finito.
+2026-11-20 20:51:12,392 | INFO | Operación correcta: registrar_equipo
+2026-11-20 20:51:12,392 | INFO | Operación correcta: registrar_asesoria
+2026-11-20 20:51:12,392 | INFO | Operación correcta: registrar_equipo
+2026-11-20 20:51:12,392 | INFO | Operación correcta: crear_reserva
+2026-11-20 20:51:12,392 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 20:51:12,392 | INFO | Operación correcta: procesar_reserva
+2026-11-20 20:51:12,392 | ERROR | crear_reserva: El servicio elegido no está disponible.
+2026-11-20 20:51:12,392 | ERROR | crear_reserva: La duración debe ser un entero positivo.
+2026-11-20 20:51:12,392 | INFO | Operación correcta: crear_reserva
+2026-11-20 20:51:12,392 | INFO | Operación correcta: cancelar_reserva
+2026-11-20 20:51:12,392 | ERROR | procesar_reserva: Solo se puede procesar una reserva confirmada.
+2026-11-20 20:51:12,392 | INFO | Operación correcta: crear_reserva
+2026-11-20 20:51:12,392 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 20:51:12,393 | INFO | Operación correcta: procesar_reserva
+2026-11-20 20:51:12,393 | ERROR | registrar_cliente: El teléfono debe contener solo dígitos.
+2026-11-20 20:51:12,393 | ERROR | registrar_sala: La capacidad debe ser un entero positivo.
+2026-11-20 20:51:12,393 | ERROR | crear_reserva: No existe cliente con ID 999.
+2026-11-20 20:51:12,393 | INFO | Operación correcta: crear_reserva
+2026-11-20 20:51:12,393 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 20:51:12,393 | ERROR | procesar_reserva: El descuento debe estar entre 0 y 100.
+2026-11-20 20:51:12,393 | INFO | Operación correcta: procesar_reserva
+2026-11-20 20:53:49,213 | INFO | Operación correcta: registrar_cliente
+2026-11-20 20:53:49,213 | ERROR | registrar_cliente: El correo no tiene un formato válido.
+2026-11-20 20:53:49,213 | INFO | Operación correcta: registrar_cliente
+2026-11-20 20:53:49,213 | ERROR | registrar_cliente: Ya existe cliente con ID 101.
+2026-11-20 20:53:49,213 | INFO | Operación correcta: registrar_sala
+2026-11-20 20:53:49,214 | ERROR | registrar_sala: La tarifa debe ser mayor que cero y finito.
+2026-11-20 20:53:49,214 | INFO | Operación correcta: registrar_equipo
+2026-11-20 20:53:49,214 | INFO | Operación correcta: registrar_asesoria
+2026-11-20 20:53:49,214 | INFO | Operación correcta: registrar_equipo
+2026-11-20 20:53:49,214 | INFO | Operación correcta: crear_reserva
+2026-11-20 20:53:49,214 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 20:53:49,214 | INFO | Terminó el intento de cálculo de la reserva #301
+2026-11-20 20:53:49,214 | INFO | Operación correcta: procesar_reserva
+2026-11-20 20:53:49,214 | ERROR | crear_reserva: El servicio elegido no está disponible.
+2026-11-20 20:53:49,214 | ERROR | crear_reserva: La duración debe ser un entero positivo.
+2026-11-20 20:53:49,214 | INFO | Operación correcta: crear_reserva
+2026-11-20 20:53:49,214 | INFO | Operación correcta: cancelar_reserva
+2026-11-20 20:53:49,214 | ERROR | procesar_reserva: Solo se puede procesar una reserva confirmada.
+2026-11-20 20:53:49,214 | INFO | Operación correcta: crear_reserva
+2026-11-20 20:53:49,214 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 20:53:49,214 | INFO | Terminó el intento de cálculo de la reserva #305
+2026-11-20 20:53:49,214 | INFO | Operación correcta: procesar_reserva
+2026-11-20 20:53:49,214 | ERROR | registrar_cliente: El teléfono debe contener solo dígitos.
+2026-11-20 20:53:49,214 | ERROR | registrar_sala: La capacidad debe ser un entero positivo.
+2026-11-20 20:53:49,214 | ERROR | crear_reserva: No existe cliente con ID 999.
+2026-11-20 20:53:49,214 | INFO | Operación correcta: crear_reserva
+2026-11-20 20:53:49,214 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 20:53:49,214 | INFO | Terminó el intento de cálculo de la reserva #307
+2026-11-20 20:53:49,214 | ERROR | procesar_reserva: El descuento debe estar entre 0 y 100.
+2026-11-20 20:53:49,214 | INFO | Terminó el intento de cálculo de la reserva #307
+2026-11-20 20:53:49,214 | INFO | Operación correcta: procesar_reserva
+2026-11-20 21:07:57,008 | INFO | Operación correcta: registrar_cliente
+2026-11-20 21:07:57,010 | ERROR | registrar_cliente: El correo no tiene un formato válido.
+2026-11-20 21:07:57,011 | INFO | Operación correcta: registrar_cliente
+2026-11-20 21:07:57,017 | ERROR | registrar_cliente: Ya existe cliente con ID 101.
+2026-11-20 21:07:57,020 | INFO | Operación correcta: registrar_sala
+2026-11-20 21:07:57,021 | ERROR | registrar_sala: La tarifa debe ser mayor que cero y finito.
+2026-11-20 21:07:57,022 | INFO | Operación correcta: registrar_equipo
+2026-11-20 21:07:57,022 | INFO | Operación correcta: registrar_asesoria
+2026-11-20 21:07:57,023 | INFO | Operación correcta: registrar_equipo
+2026-11-20 21:07:57,024 | INFO | Operación correcta: crear_reserva
+2026-11-20 21:07:57,025 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 21:07:57,027 | INFO | Terminó el intento de cálculo de la reserva #301
+2026-11-20 21:07:57,027 | INFO | Operación correcta: procesar_reserva
+2026-11-20 21:07:57,028 | ERROR | crear_reserva: El servicio elegido no está disponible.
+2026-11-20 21:07:57,029 | ERROR | crear_reserva: La duración debe ser un entero positivo.
+2026-11-20 21:07:57,035 | INFO | Operación correcta: crear_reserva
+2026-11-20 21:07:57,038 | INFO | Operación correcta: cancelar_reserva
+2026-11-20 21:07:57,039 | ERROR | procesar_reserva: Solo se puede procesar una reserva confirmada.
+2026-11-20 21:07:57,041 | INFO | Operación correcta: crear_reserva
+2026-11-20 21:07:57,043 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 21:07:57,046 | INFO | Terminó el intento de cálculo de la reserva #305
+2026-11-20 21:07:57,047 | INFO | Operación correcta: procesar_reserva
+2026-11-20 21:07:57,050 | ERROR | registrar_cliente: El teléfono debe contener solo dígitos.
+2026-11-20 21:07:57,053 | ERROR | registrar_sala: La capacidad debe ser un entero positivo.
+2026-11-20 21:07:57,056 | ERROR | crear_reserva: No existe cliente con ID 999.
+2026-11-20 21:07:57,058 | INFO | Operación correcta: crear_reserva
+2026-11-20 21:07:57,059 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 21:07:57,060 | INFO | Terminó el intento de cálculo de la reserva #307
+2026-11-20 21:07:57,060 | ERROR | procesar_reserva: El descuento debe estar entre 0 y 100.
+2026-11-20 21:07:57,061 | INFO | Terminó el intento de cálculo de la reserva #307
+2026-11-20 21:07:57,061 | INFO | Operación correcta: procesar_reserva
+2026-11-20 21:14:04,183 | INFO | Operación correcta: registrar_cliente
+2026-11-20 21:14:04,184 | ERROR | registrar_cliente: El correo no tiene un formato válido.
+2026-11-20 21:14:04,185 | INFO | Operación correcta: registrar_cliente
+2026-11-20 21:14:04,185 | ERROR | registrar_cliente: Ya existe cliente con ID 101.
+2026-11-20 21:14:04,186 | INFO | Operación correcta: registrar_sala
+2026-11-20 21:14:04,187 | ERROR | registrar_sala: La tarifa debe ser mayor que cero y finito.
+2026-11-20 21:14:04,187 | INFO | Operación correcta: registrar_equipo
+2026-11-20 21:14:04,188 | INFO | Operación correcta: registrar_asesoria
+2026-11-20 21:14:04,193 | INFO | Operación correcta: registrar_equipo
+2026-11-20 21:14:04,193 | INFO | Operación correcta: crear_reserva
+2026-11-20 21:14:04,196 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 21:14:04,197 | INFO | Terminó el intento de cálculo de la reserva #301
+2026-11-20 21:14:04,197 | INFO | Operación correcta: procesar_reserva
+2026-11-20 21:14:04,198 | ERROR | crear_reserva: El servicio elegido no está disponible.
+2026-11-20 21:14:04,198 | ERROR | crear_reserva: La duración debe ser un entero positivo.
+2026-11-20 21:14:04,200 | INFO | Operación correcta: crear_reserva
+2026-11-20 21:14:04,201 | INFO | Operación correcta: cancelar_reserva
+2026-11-20 21:14:04,201 | ERROR | procesar_reserva: Solo se puede procesar una reserva confirmada.
+2026-11-20 21:14:04,201 | INFO | Operación correcta: crear_reserva
+2026-11-20 21:14:04,202 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 21:14:04,202 | INFO | Terminó el intento de cálculo de la reserva #305
+2026-11-20 21:14:04,202 | INFO | Operación correcta: procesar_reserva
+2026-11-20 21:14:04,203 | ERROR | registrar_cliente: El teléfono debe contener solo dígitos.
+2026-11-20 21:14:04,203 | ERROR | registrar_sala: La capacidad debe ser un entero positivo.
+2026-11-20 21:14:04,204 | ERROR | crear_reserva: No existe cliente con ID 999.
+2026-11-20 21:14:04,204 | INFO | Operación correcta: crear_reserva
+2026-11-20 21:14:04,205 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 21:14:04,205 | INFO | Terminó el intento de cálculo de la reserva #307
+2026-11-20 21:14:04,206 | ERROR | procesar_reserva: El descuento debe estar entre 0 y 100.
+2026-11-20 21:14:04,206 | INFO | Terminó el intento de cálculo de la reserva #307
+2026-11-20 21:14:04,206 | INFO | Operación correcta: procesar_reserva
+2026-11-20 21:20:27,926 | INFO | Operación correcta: registrar_cliente
+2026-11-20 21:20:27,927 | ERROR | registrar_cliente: El correo no tiene un formato válido.
+2026-11-20 21:20:27,927 | INFO | Operación correcta: registrar_cliente
+2026-11-20 21:20:27,927 | ERROR | registrar_cliente: Ya existe cliente con ID 101.
+2026-11-20 21:20:27,928 | INFO | Operación correcta: registrar_sala
+2026-11-20 21:20:27,928 | ERROR | registrar_sala: La tarifa debe ser mayor que cero y finito.
+2026-11-20 21:20:27,928 | INFO | Operación correcta: registrar_equipo
+2026-11-20 21:20:27,929 | INFO | Operación correcta: registrar_asesoria
+2026-11-20 21:20:27,929 | INFO | Operación correcta: registrar_equipo
+2026-11-20 21:20:27,929 | INFO | Operación correcta: crear_reserva
+2026-11-20 21:20:27,929 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 21:20:27,930 | INFO | Terminó el intento de cálculo de la reserva #301
+2026-11-20 21:20:27,930 | INFO | Operación correcta: procesar_reserva
+2026-11-20 21:20:27,931 | ERROR | crear_reserva: El servicio elegido no está disponible.
+2026-11-20 21:20:27,932 | ERROR | crear_reserva: La duración debe ser un entero positivo.
+2026-11-20 21:20:27,932 | INFO | Operación correcta: crear_reserva
+2026-11-20 21:20:27,933 | INFO | Operación correcta: cancelar_reserva
+2026-11-20 21:20:27,933 | ERROR | procesar_reserva: Solo se puede procesar una reserva confirmada.
+2026-11-20 21:20:27,933 | INFO | Operación correcta: crear_reserva
+2026-11-20 21:20:27,934 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 21:20:27,935 | INFO | Terminó el intento de cálculo de la reserva #305
+2026-11-20 21:20:27,935 | INFO | Operación correcta: procesar_reserva
+2026-11-20 21:20:27,935 | ERROR | registrar_cliente: El teléfono debe contener solo dígitos.
+2026-11-20 21:20:27,937 | ERROR | registrar_sala: La capacidad debe ser un entero positivo.
+2026-11-20 21:20:27,938 | ERROR | crear_reserva: No existe cliente con ID 999.
+2026-11-20 21:20:27,939 | INFO | Operación correcta: crear_reserva
+2026-11-20 21:20:27,939 | INFO | Operación correcta: confirmar_reserva
+2026-11-20 21:20:27,940 | INFO | Terminó el intento de cálculo de la reserva #307
+2026-11-20 21:20:27,940 | ERROR | procesar_reserva: El descuento debe estar entre 0 y 100.
+2026-11-20 21:20:27,943 | INFO | Terminó el intento de cálculo de la reserva #307
+2026-11-20 21:20:27,943 | INFO | Operación correcta: procesar_reserva
